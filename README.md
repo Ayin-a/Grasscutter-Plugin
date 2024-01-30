@@ -131,6 +131,7 @@
 * [All 传送文件](https://github.com/Lost-Season/Genshin_Impact_Teleport) 配合akebi的teleport功能使用。
 
 * [genshin-hdiff-patch-gui](https://github.com/RainKavik-Group/genshin-hdiff-patch-gui) GUI图形界面 自动完成hdiff差分包更新，（适用于合并语音包跟升级包，解决覆盖没有语音的烦恼）。
+* [windseed](https://github.com/kindawindytoday/WindSeed)允许你在原神里面整活
 
 ## 感谢以下成员做出的贡献 | Credits
 
