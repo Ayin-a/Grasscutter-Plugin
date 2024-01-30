@@ -14,7 +14,9 @@
 * [Grasscutter](https://github.com/Grasscutters/Grasscutter) 官方GC项目地址
 * [Resources_3.1](https://github.com/tamilpp25/Grasscutter_Resources)
 * [Resources_3.1.5x](https://github.com/snoobi-seggs/nahida_seggs)
-* [GI-Download-Library](https://github.com/kyou-nase/GI-Download-Library) 各版本客户端下载链接。
+* [GI-Download-Library](https://github.com/360NENZ/GI-Download-Library) 原神各版本客户端下载链接。
+* [SR-Download-Library](https://github.com/360NENZ/SR-Download-Library)星铁各版本下载
+* [ZZZ-Download-Library](https://github.com/360NENZ/ZZZ-Download-Library)绝区零各版本下载
 * [一键脚本部署](https://github.com/cool-chill/GC-onekey) 写给Linux用的 <details> <summary>不要展开</summary> ~话说既然用上Linux的还要一键脚本？~  </details>
 
 ## 插件
